@@ -1,2 +1,4 @@
 # hello-world
-The First repository
+
+This is a test.
+I am a rookie.
